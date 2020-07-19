@@ -5,6 +5,7 @@ QT += opengl
 QT += xml
 QT += xmlpatterns
 QT += network
+QT += quick
 
 #CONFIG += debug_and_release
 DESTDIR = $$MESHLAB_DISTRIB_DIRECTORY
